@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">福利社</string>
+    <string name="app_name">FuliShop</string>
+    <string name="skip">skip</string>
 </resources>
